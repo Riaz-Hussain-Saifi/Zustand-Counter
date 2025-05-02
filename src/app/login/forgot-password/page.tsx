@@ -6,7 +6,7 @@ export default function ForgotPassword() {
         <div className="bg-white p-6 rounded-lg shadow-lg w-full max-w-md text-center">
           <h1 className="text-2xl font-bold text-red-600 mb-2">Forgot Password?</h1>
           <p className="text-gray-600 mb-4">
-            Don't worry! If you've forgotten your password, you can simply <strong>create a new account</strong>.
+            Do not worry! If you have forgotten your password, you can simply <strong>create a new account</strong>.
           </p>
           <a
             href="/signup"
