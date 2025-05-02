@@ -2,7 +2,7 @@
 
 A modern and responsive authentication + counter demo built with **Next.js 15**, **Zustand**, **TailwindCSS**, and **Sanity.io**.
 
-🔗 Live Repo: [Zustand-Counter](https://github.com/Riaz-Hussain-Saifi/Zustand-Counter.git)
+🔗 Live Repo: [Zustand-Counter](https://zustand-counter-seven.vercel.app/)
 
 ---
 
