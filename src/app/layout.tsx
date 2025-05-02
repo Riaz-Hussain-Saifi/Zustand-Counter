@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   keywords: ['Zustand', 'Next.js', 'Sanity', 'Authentication', 'TailwindCSS', 'Counter'],
   authors: [{ name: 'Riaz Hussain Saifi', url: 'https://github.com/Riaz-Hussain-Saifi' }],
   creator: 'Riaz Hussain Saifi',
-  metadataBase: new URL('https://yourdomain.com'), // replace with your domain
+  metadataBase: new URL('https://zustand-counter-git-main-riaz-hussains-saifi.vercel.app/'), // replace with your domain
   openGraph: {
     title: 'Zustand Counter + Auth App',
     description: 'Modern auth & counter app with Zustand, Sanity & TailwindCSS.',

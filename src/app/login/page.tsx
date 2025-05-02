@@ -29,8 +29,8 @@ export default function LoginPage() {
       if (!data.success) throw new Error(data.message)
 
       router.push('/dashboard')
-    } catch (err: any) {
-      setError(err.message || 'Login failed')
+    } catch {
+      setError('Login failed')
     } finally {
       setLoading(false)
     }

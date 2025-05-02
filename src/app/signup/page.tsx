@@ -33,8 +33,8 @@ export default function SignUpPage() {
 
       setSuccess("Account created! Redirecting to login...")
       setTimeout(() => router.push("/login"), 1500)
-    } catch (err: any) {
-      setError(err.message || "Something went wrong.")
+    } catch {
+      setError("Something went wrong.")
     } finally {
       setLoading(false)
     }
